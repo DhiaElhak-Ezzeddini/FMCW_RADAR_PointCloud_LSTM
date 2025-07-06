@@ -1,3 +1,5 @@
-#FMCW_RADAR_PointCloud_LSTM
+# FMCW_RADAR_PointCloud_LSTM
 
-Processing Radar-based Point Cloud data to classify 12 hand gestures using LSTM networks in PyTorch
+**Processing Radar-based Point Cloud Data to Classify 12 Hand Gestures Using LSTM Networks in PyTorch**
+
+This project focuses on the use of Long Short-Term Memory (LSTM) networks for the classification of 12 distinct hand gestures based on point cloud data captured by Frequency-Modulated Continuous Wave (FMCW) radar. Implemented in PyTorch, the model processes sequential radar data and learns temporal features to achieve robust gesture recognition.
