@@ -14,10 +14,10 @@ During this project, I gained practical experience working with FMCW radar and c
 
 <div align="center">
 
-![Radar Setup]("images/494687283_1062228509101176_5180146512302904379_n (1).jpg")  
+![Radar Setup](images/494687283_1062228509101176_5180146512302904379_n (1).jpg)  
 *Radar setup used for hand gesture capture*
 
-![Hand Gesture Capture]("images/494689598_1204205381353942_2726134839270594097_n (1).jpg")  
+![Hand Gesture Capture](images/494689598_1204205381353942_2726134839270594097_n (1).jpg)  
 *Example of hand gestures recorded with the radar*
 
 </div>
