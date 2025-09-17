@@ -1,7 +1,36 @@
-# FMCW_RADAR_PointCloud_LSTM
+# FMCW Radar Point Cloud LSTM for Hand Gesture Recognition
 
-**Processing Radar-based Point Cloud Data to Classify 12 Hand Gestures Using LSTM Networks in PyTorch**
+**Classification of 12 Hand Gestures Using LSTM Networks on Radar Point Cloud Data**
 
-This project focuses on the use of Long Short-Term Memory (LSTM) networks for the classification of 12 distinct hand gestures based on point cloud data captured by Frequency-Modulated Continuous Wave (FMCW) radar. Implemented in PyTorch, the model processes sequential radar data and learns temporal features to achieve robust gesture recognition.
+This project leverages **Long Short-Term Memory (LSTM) networks** to classify **12 distinct hand gestures** captured using **Frequency-Modulated Continuous Wave (FMCW) radar**. Implemented in **PyTorch**, the model processes sequential radar point cloud data to learn temporal features, enabling robust and accurate gesture recognition.
 
-DataSet Link : [Hand gestures recorded with mm-Wave FMCW radar (AWR1642)](https://ieee-dataport.org/open-access/hand-gestures-recorded-mm-wave-fmcw-radar-awr1642)
+**Dataset:** [Hand gestures recorded with mm-Wave FMCW radar (AWR1642)](https://ieee-dataport.org/open-access/hand-gestures-recorded-mm-wave-fmcw-radar-awr1642)
+
+---
+
+## My Hands-On Experience
+
+During this project, I gained practical experience working with FMCW radar and capturing hand gesture data. Below are some images from my setup:
+
+<div align="center">
+
+![Radar Setup]("images/494687283_1062228509101176_5180146512302904379_n (1).jpg")  
+*Radar setup used for hand gesture capture*
+
+![Hand Gesture Capture]("images/494689598_1204205381353942_2726134839270594097_n (1).jpg")  
+*Example of hand gestures recorded with the radar*
+
+</div>
+
+---
+
+## Key Features
+
+- Sequential processing of radar point clouds using LSTM networks  
+- Classification of 12 unique hand gestures  
+- Implemented in **PyTorch** for fast prototyping and training  
+- Hands-on experience with radar hardware and data acquisition  
+
+---
+
+
